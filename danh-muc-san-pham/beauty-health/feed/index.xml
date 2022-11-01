@@ -12,11 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/beauty-health/feed/" rel="self" type="application/rss+xml" />
 	<link>https://thientrile.github.io/mywordpress</link>
 	<description></description>
-<<<<<<< HEAD
 	<lastBuildDate>Tue, 01 Nov 2022 07:10:42 +0000</lastBuildDate>
-=======
-	<lastBuildDate>Wed, 19 Oct 2022 02:19:43 +0000</lastBuildDate>
->>>>>>> 2b6f420b70e8c117e58954be51670e420b9a15dd
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
