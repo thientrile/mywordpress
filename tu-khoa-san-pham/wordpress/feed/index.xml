@@ -12,13 +12,13 @@
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://thientrile.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Fri, 14 Oct 2022 09:54:06 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 01 Nov 2022 07:10:42 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 
 <image>
 	<url>https://thientrile.github.io/mywordpress/wp-content/uploads/2022/09/favicon.png</url>

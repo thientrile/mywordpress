@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Jewelry &amp; Watches &#8211; BoxShop</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/jewelry-watches/feed/" rel="self" type="application/rss+xml" />
+	<link>https://thientrile.github.io/mywordpress</link>
+	<description></description>
+	<lastBuildDate>Fri, 14 Oct 2022 08:49:18 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+
+<image>
+	<url>https://thientrile.github.io/mywordpress/wp-content/uploads/2022/09/favicon.png</url>
+	<title>Jewelry &amp; Watches &#8211; BoxShop</title>
+	<link>https://thientrile.github.io/mywordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CRAS PROAN IM VARIABLE</title>
+		<link>https://thientrile.github.io/mywordpress/san-pham/cras-aliquet-isum-amet-2/</link>
+					<comments>https://thientrile.github.io/mywordpress/san-pham/cras-aliquet-isum-amet-2/#respond</comments>
+		
+		<dc:creator><![CDATA[lethientri]]></dc:creator>
+		<pubDate>Fri, 14 Oct 2022 08:40:49 +0000</pubDate>
+				<guid isPermaLink="false">https://thientrile.github.io/mywordpress/?post_type=product&#038;p=719</guid>
+
+					<description><![CDATA[Social good making progress catalytic effect diversity social responsibility Peace Corps Bloomberg. Safeguards, prevention; education crisis management positive social change. Plumpy’nut honor planned giving development, Jane Addams justice change-makers economic independence think tank.]]></description>
+										<content:encoded><![CDATA[<h6>Paragraph text</h6>
+<p>Nam tristique porta ligula, vel viverra sem eleifend nec. Nulla sed purus augue, eu euismod tellus. Nam mattis eros nec mi sagittis sagittis. Vestibulum suscipit cursus bibendum. Integer at justo eget sem auctor auctor eget vitae arcu. Nam tempor malesuada porttitor. Nulla quis dignissim ipsum.</p>
+<h6>Unordered list</h6>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br />
+Maecenas ullamcorper est et massa mattis condimentum.<br />
+Vestibulum sed massa vel ipsum imperdiet malesuada id tempus nisl.<br />
+Etiam nec massa et lectus faucibus ornare congue in nunc.<br />
+Mauris eget diam magna, in blandit turpis.</p>
+<h6>Ordered list</h6>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br />
+Maecenas ullamcorper est et massa mattis condimentum.<br />
+Vestibulum sed massa vel ipsum imperdiet malesuada id tempus nisl.<br />
+Etiam nec massa et lectus faucibus ornare congue in nunc.<br />
+Mauris eget diam magna, in blandit turpis.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://thientrile.github.io/mywordpress/san-pham/cras-aliquet-isum-amet-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
